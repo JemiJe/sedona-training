@@ -1,0 +1,43 @@
+/* MEDIA */
+$mobile-width-max: "(max-width: 767px)";
+
+$tablet-width: "(min-width: 768px)";
+$desktop-width: "(min-width: 1200px)";
+
+$mobile-only-width: "(max-width: 500px)";
+
+/* COLORS */
+$color-body-background: #242424;
+$color-body-background-2: #353535;
+$color-section-background-light: #f8f5f2;
+$color-footer-background: #292929;
+
+$menu-mobile-color: #826550;
+$menu-tablet-color: #000000;
+$menu-btn-color: #6a4d38;
+$menu-item-border-top-color: #886e5b;
+$menu-item-border-bott-color: #71543f;
+
+$color-border-cream: #e5ddd5;
+$color-border-cream-active: #d5c9bd;
+$color-border-ash: #3e3e3e;
+$color-border-ash-lt: #545454;
+
+$table-tr-1: #404040;
+$table-tr-2: #4e4e4e;
+$table-tr-3: #353535;
+$table-tr-4: #404040;
+
+$color-ash-light: #727272;
+
+$btn-active-text: #958c84;
+$btn-active-bg: #d5c9bd;
+$btn-copy-hover: #9204ff;
+$btn-copy-active: #7A00DA;
+$btn-footer-active-bg: #252525;
+
+/* PATH */
+
+$path-sprite: "../img/spritesheet.png";
+$path-sprite-tags: "../img/spritesheet-2.png";
+$path-sprite-beards: "../img/spritesheet-beards.png";

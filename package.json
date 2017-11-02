@@ -1,0 +1,25 @@
+{
+  "name": "front-end_template_for_gulp",
+  "version": "0.1.0",
+  "private": true,
+  "description": "includes developing and building tasks",
+  "author": "JemiJe",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "make-structure": "mkdir \"scss/blocks\" css img \"img/content\" \"img/icons\" fonts js build"
+  },
+  "devDependencies": {
+    "autoprefixer": "^7.1.4",
+    "bootstrap": "^4.0.0-beta.2",
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-csso": "^3.0.0",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-postcss": "^7.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-run-sequence": "^0.3.2",
+    "gulp-sass": "^3.1.0"
+  }
+}
